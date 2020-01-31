@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Good Evening"
+        android:text="Good Aftrenoon Subodh"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.588"
@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Submit"
-        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteX="190dp"
         tools:layout_editor_absoluteY="402dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
